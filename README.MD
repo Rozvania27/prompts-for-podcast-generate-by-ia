@@ -1,12 +1,9 @@
 <p align="center">
 <img 
-    src="./assets/Princesa_Leia.png"
+    src="./assets/Podcast_Princesa_Leia.png"
     width="300"
 />
-<img 
-    src="./assets/A_Forca.jpg"
-    width="300"
-/>
+
 </p>
 
 # Projeto Podcast Gerado por I.A.s
@@ -54,7 +51,6 @@ Esses passos garantirão uma execução organizada e eficiente do projeto.
     </a>
     
    
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>

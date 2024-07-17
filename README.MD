@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/Podcast_Princesa_Leia.png"
-    width="300"
+    width="600"
 />
 
 </p>
